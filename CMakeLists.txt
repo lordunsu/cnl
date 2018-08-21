@@ -19,6 +19,9 @@ add_subdirectory("doc" EXCLUDE_FROM_ALL)
 # generate single-header header
 add_subdirectory("src/single_header" EXCLUDE_FROM_ALL)
 
+# tests for example projects
+add_subdirectory("example" EXCLUDE_FROM_ALL)
+
 # the CNL library
 add_library(Cnl INTERFACE)
 

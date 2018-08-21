@@ -27,5 +27,6 @@
 #include "rounding_integer.h"
 #include "static_integer.h"
 #include "static_number.h"
+#include "_impl/type_traits.h"
 
 #endif  // CNL_ALL_H
