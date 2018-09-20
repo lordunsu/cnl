@@ -42,6 +42,8 @@ set(test_sources
         fixed_point/extras.cpp
         overflow/overflow_integer.cpp
         rounding/rounding_integer.cpp
+        _impl/multiword_integer/optimal_multiword_integer.cpp
+        _impl/multiword_integer/type.cpp
         _impl/wide_integer/digits.cpp
         _impl/wide_integer/from_rep.cpp
         _impl/wide_integer/from_value.cpp

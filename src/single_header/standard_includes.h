@@ -7,6 +7,7 @@
 #include <cmath>
 #include <cstdint>
 #include <istream>
+#include <iterator>
 #include <functional>
 #include <limits>
 #include <numeric>
